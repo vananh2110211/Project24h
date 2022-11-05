@@ -1,0 +1,6 @@
+../Core/Src/software_timer.c:22:6:SetTimer_0	16	static
+../Core/Src/software_timer.c:26:6:SetTimer_1	16	static
+../Core/Src/software_timer.c:31:6:RunSoftwareTimer	4	static
+../Core/Src/software_timer.c:46:9:FlagTimer_0	4	static
+../Core/Src/software_timer.c:49:9:FlagTimer_1	4	static
+../Core/Src/software_timer.c:53:6:HAL_TIM_PeriodElapsedCallback	16	static
